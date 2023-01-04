@@ -14,3 +14,21 @@ Wireless Fidelity atau yang lebih awam kita sebut wifi adalah suatu teknologi ya
 **HASIL KELUARAN**
 
 **1) ESP32 WiFi Modes dan WiFi Scan**
+![image](https://user-images.githubusercontent.com/41616849/210602234-71ec5c99-954f-4bfd-8d8f-c9331f8c6567.png)
+
+**2) Menghubungkan ESP32 Dengan Jaringan WiFi**
+![image](https://user-images.githubusercontent.com/41616849/210602401-de603fe0-b211-415e-a44c-afc1bc2564f4.png)
+
+**3) Menghubungkan Kembali (Re-connect) ESP32 Dengan Jaringan WiFi**
+![image](https://user-images.githubusercontent.com/41616849/210602518-bc92788e-43b4-4718-9a7f-96378f0172ae.png)
+
+**4) Mengganti Hostname ESP32**
+![209355981-cb045bac-eb0c-432b-9d12-23e15c5513b6](https://user-images.githubusercontent.com/41616849/210603284-2440418f-b0d0-4169-b7fb-5a03d66f7f05.jpg)
+
+**5) Mengirim Data Sensor ke Database**
+![image](https://user-images.githubusercontent.com/41616849/210603483-4d2a9aac-7baf-4ce7-8aad-6412a4ec755f.png)
+
+
+
+
+
